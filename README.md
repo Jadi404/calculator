@@ -57,7 +57,7 @@ pip install -r requirements.txt
 * Improving my understanding of PyQt6
 
   
-#  Future Improvements
+##Future Improvements
 
 * Update the divide symbol to display the actual divide symbol
 * Add keyboard support
@@ -67,6 +67,6 @@ pip install -r requirements.txt
 * Improve error handling
 
 
-# License
+## License
 
 This project is licensed under the MIT License.
