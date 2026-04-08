@@ -10,7 +10,9 @@ A desktop calculator made with PyQt6 that makes use of a clean Ui, as well as a 
 * Error handling
 
 ## Demo 
-![Calculator Demo](assets/QuickMathsDemo.mp4)
+
+https://github.com/user-attachments/assets/105a2ad9-f5c0-44e7-be34-17230d169860
+
 
 ## Systems Used 
 * Python
