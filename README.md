@@ -9,9 +9,15 @@ A desktop calculator made with PyQt6 that makes use of a clean Ui, as well as a 
 * Clear functionality
 * Error handling
 
-## Demo 
+## Demo
 
-https://github.com/user-attachments/assets/105a2ad9-f5c0-44e7-be34-17230d169860
+<p align="center">
+  <img src="assets/QuickMathsHello.png" width="400"/>
+</p>
+
+### 🎥 Demo Video
+
+https://github.com/user-attachments/assets/237b6103-0b1f-4cd4-ab70-c51e9c04bff5  
 
 
 ## Systems Used 
@@ -58,12 +64,13 @@ pip install -r requirements.txt
 * Improving problem-solving and debugging skills
 * Improving my understanding of PyQt6
 
-  
-## Future Improvements
-
+## Added Improvements
 * Update the divide symbol to display the actual divide symbol
 * Add keyboard support
 * Add backspace button
+* Added "Hello!" welcome message 
+  
+## Future Improvements
 * Implement a safe maths evalutor (replace eval)
 * Add calculation history
 * Improve error handling
